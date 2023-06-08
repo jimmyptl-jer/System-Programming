@@ -1,0 +1,1 @@
+sudo ./ncpmvdir /path/to/source /path/to/destination cp .txt .doc
